@@ -1,4 +1,4 @@
-const MODEL = 'gemini-2.5-flash';
+const MODEL = 'gemini-flash-latest';
 const MAX_INPUT = 1000;
 const LIMIT = 10;
 const hits = new Map();
